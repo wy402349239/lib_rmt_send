@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">lib_remote_control</string>
+    <string name="send_abort_self">对端 %s 退出</string>
+    <string name="file_send_complete">发送完成</string>
+    <string name="file_has_completed">已完成</string>
+    <string name="file_wait">等待</string>
+    <string name="file_sending">正在发送</string>
+    <string name="file_receiving">正在接收</string>
+    <string name="file_receive_completed">接收完成</string>
+</resources>
